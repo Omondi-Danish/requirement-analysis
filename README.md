@@ -4,7 +4,7 @@
 
 This repository explores the foundational phase of the Software Development Life Cycle (SDLC): **Requirement Analysis**. It serves as a practical guide for developers, designers, and stakeholders to understand how to define, document, and validate software requirements before development begins.
 
-Inspired by real-world projects like my [Airbnb Clone](https://github.com/your-username/airbnb-clone), this repo emphasizes the importance of planning and clarity in building scalable, user-centered applications.
+Inspired by real-world projects like my [Airbnb Clone](https://github.com/Omondi-Danish/airbnb-clone-project), this repo emphasizes the importance of planning and clarity in building scalable, user-centered applications.
 
 ---
 
