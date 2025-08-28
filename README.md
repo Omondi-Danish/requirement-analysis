@@ -81,7 +81,7 @@ These define **how the system performs** — its quality attributes.
 - Enhances communication between technical and non-technical stakeholders
 - Supports early validation of system scope
 
-![Use Case Diagram for Booking System](https://drive.google.com/file/d/1YG9vyHMHWqgoc0OsrVIABEMGQHmhZzR1/view?usp=sharing)
+[Use Case Diagram for Booking System](https://drive.google.com/file/d/1YG9vyHMHWqgoc0OsrVIABEMGQHmhZzR1/view?usp=sharing)
 
 ---
 
